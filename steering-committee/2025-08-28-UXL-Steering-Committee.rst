@@ -26,8 +26,8 @@ UXL Foundation hosted oneAPI DevSummit 2025
 
 The team is working to encourage more signups for the event. Alison will share the summary text and imagery.
 The agenda is now fixed and will include a panel type session with some members of the Steering Committee.
-The `event web page` shows the agenda.
-Registration is open on `RegFox`.
+The `event web page`_ shows the agenda.
+Registration is open on `RegFox`_.
 
 Website Work
 ============
