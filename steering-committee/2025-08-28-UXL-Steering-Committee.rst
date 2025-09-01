@@ -26,8 +26,8 @@ UXL Foundation hosted oneAPI DevSummit 2025
 
 The team is working to encourage more signups for the event. Alison will share the summary text and imagery.
 The agenda is now fixed and will include a panel type session with some members of the Steering Committee.
-The [event web page](https://oneapi.io/events/oneapi-devsummit-hosted-by-uxl-foundation-2025/#agenda) shows the agenda.
-egistration is open on [RegFox](https://linuxfoundation.regfox.com/2025-uxl-foundation-devsummit).
+The `event web page` shows the agenda.
+Registration is open on `RegFox`.
 
 Website Work
 ============
@@ -39,3 +39,6 @@ Working Group Requests
 
 Help is needed from members to expand the public CI infrastructure, this was discussed at the last Working Group meeting.
 This includes GitHub organization administrators, hosted runners for different architectures such as Nvidia and AMD, and expertise to document the status and processes for public CI runners to be set up.
+
+.. _event web page: https://oneapi.io/events/oneapi-devsummit-hosted-by-uxl-foundation-2025/#agenda
+.. _RegFox: https://linuxfoundation.regfox.com/2025-uxl-foundation-devsummit
